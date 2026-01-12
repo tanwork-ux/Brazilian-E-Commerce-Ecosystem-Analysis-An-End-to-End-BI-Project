@@ -17,7 +17,10 @@ This folder contains the end-to-end process of analyzing Olist's sales data. The
 2. **Top Categories:** **Health & Beauty** and **Watches/Gifts** are the primary revenue drivers.
 3. **Regional Focus:** Sales are heavily concentrated in the Southeast region, particularly in **Sao Paulo** and **Rio de Janeiro**.
 
-![Dashboard Preview](github.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/tree/main/Sales Analysis/Visualisasi)
+![Dashboard Preview](https://raw.githubusercontent.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/main/Sales%20Analysis/Visualisasi/Sales.png)
+![](https://raw.githubusercontent.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/main/Sales%20Analysis/Visualisasi/2016.png)
+![](https://raw.githubusercontent.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/main/Sales%20Analysis/Visualisasi/2017.png)
+![](https://raw.githubusercontent.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/main/Sales%20Analysis/Visualisasi/2018.png)
 ## 📊 Interactive Dashboard
 Since the Power BI file is quite large, you can download it via the link below:
 👉 [Download .pbix from Google Drive]((https://drive.google.com/file/d/1KOx_71n0Gbg06Yhi9RurWyjBrbK7AzxJ/view?usp=drive_link))
