@@ -23,4 +23,4 @@ This folder contains the end-to-end process of analyzing Olist's sales data. The
 ![](https://raw.githubusercontent.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/main/Sales%20Analysis/Visualisasi/2018.png)
 ## 📊 Interactive Dashboard
 Since the Power BI file is quite large, you can download it via the link below:
-👉 [Download .pbix from Google Drive]((https://drive.google.com/file/d/1KOx_71n0Gbg06Yhi9RurWyjBrbK7AzxJ/view?usp=drive_link))
+👉 [Download .pbix from Google Drive](https://drive.google.com/file/d/1KOx_71n0Gbg06Yhi9RurWyjBrbK7AzxJ/view?usp=drive_link)
