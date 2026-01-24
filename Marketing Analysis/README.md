@@ -20,23 +20,23 @@ Proyek ini bertujuan untuk menganalisis efisiensi *marketing funnel* dari datase
 
 ## 📈 Key Insights
 
-   Conversion Rate (CR): Rata-rata konversi stabil di angka 10.53%.
+   Conversion Rate (CR): Rata-rata konversi di tahun 2017 hanya mencapai 5%, konversi rate yang tinggi di angka 13.02% di setengah tahun 2018, membuat rata rata konversi di periode 2017 & 2018 mencapai angka 10.53%.
 
-   Peak Season: Bulan April menunjukkan volume leads tertinggi, namun perlu diimbangi dengan kapasitas sales.
-
-   Anomali: Terdapat penurunan drastis pada bulan Juni, yang terdeteksi secara otomatis melalui sistem pewarnaan dinamis pada dashboard.
+   Peak Season: Tahun 2018 menunjukkan volume leads dan konfersi tertinggi di setengah tahun pertamanya.
+   
+   Anomali: Terdapat penurunan trend secara drastis pada bulan Juni 2018 dan disusul stagnasi hingga Desember 2018.
 
 ## 💡 Business Recommendations
 
    Berdasarkan hasil analisis, berikut adalah beberapa strategi yang disarankan:
 
-   Optimasi Leads di Bulan April: Karena volume leads memuncak di bulan April, tim sales harus dipersiapkan dengan kapasitas ekstra agar respon tetap cepat dan Conversion Rate tidak turun.
+   Mengacu pada data terakhir tahun 2018, optimasi Leads di Bulan Maret - April: Karena volume leads memuncak di bulan 2 bulan itu, tim sales harus dipersiapkan dengan kapasitas ekstra agar respon tetap cepat dan Conversion Rate tidak turun seperti yang terjadi pada bulan may tahun 2018.
 
    Investigasi Anomali Leads dan Conversion Rate: Terjadi penurunan volume leads sejak Juni yang stagnan hingga Desember dan diikuti anjloknya conversion rate pada periode Juni-Desember. Perlu dilakukan audit pada kanal marketing di bulan Juni untuk mengidentifikasi penyebab turunnya performa secara drastis 
 
-   Segmentasi Leads: Disarankan untuk memprioritaskan leads dari kanal yang memiliki historis konversi di atas rata-rata (10.53%) guna menekan biaya akuisisi (CAC).
+   Segmentasi Leads: Disarankan untuk memprioritaskan leads dari kanal yang memiliki historis konversi di atas rata-rata (13.02%) guna menekan biaya akuisisi (CAC).
 
-   Retensi Seller: Mengingat hanya sekitar 10% leads yang menjadi seller, tim onboarding perlu menyederhanakan proses pendaftaran agar mengurangi hambatan (friction) bagi calon seller baru.
+   Retensi Seller: Mengingat hanya sekitar 13% leads yang menjadi seller, tim onboarding perlu menyederhanakan proses pendaftaran agar mengurangi hambatan (friction) bagi calon seller baru di tahun tahun berikutnya.
 
 ## 📊 Dashboard Preview
 
