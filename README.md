@@ -1,4 +1,4 @@
-# 🇧🇷 Brazilian E-Commerce Ecosystem Analysis Olist 2017 & 2018
+# 🇧🇷 Brazilian E-Commerce Ecosystem Analysis Olist 2016-2018
 ### An End-to-End Business Intelligence Project
 
 Welcome to my comprehensive data analysis project on the **Olist E-Commerce Dataset**. This project aims to transform raw marketplace data into actionable business insights using Python for data engineering and Power BI for interactive visualization.
@@ -25,3 +25,15 @@ Welcome to my comprehensive data analysis project on the **Olist E-Commerce Data
 * **Health & Beauty** emerged as the top-performing category.
 
 👉 **[View Detailed Sales Analysis](https://drive.google.com/file/d/1KOx_71n0Gbg06Yhi9RurWyjBrbK7AzxJ/view?usp=drive_link)**
+
+## 🚀 Featured Analysis: Marketing Overview
+![Dashboard Preview](https://github.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/blob/main/Marketing%20Analysis/Visualisasi/General.png)
+![Dashboard](https://github.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/tree/main/Marketing%20Analysis/Dashboard)
+
+**Quick Insights:**
+* Conversion Rate from 2017 & 2018 period.
+* Peak Season.
+* Anomalies Trend from 2017 & 2018 period.
+
+
+👉 **[View Detailed Marketing Analysis](https://github.com/tanwork-ux/Brazilian-E-Commerce-Ecosystem-Analysis-An-End-to-End-BI-Project/tree/main/Marketing%20Analysis)**
