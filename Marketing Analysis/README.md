@@ -1,5 +1,5 @@
 # 📊 Olist Marketing Funnel Analysis
-> **Analyzing Lead-to-Deal Conversion & Marketing Performance**
+**Analyzing Lead-to-Deal Conversion & Marketing Performance**
 
 ## 📝 Project Overview
 Proyek ini bertujuan untuk menganalisis efisiensi *marketing funnel* dari dataset Olist. Fokus utamanya adalah memahami bagaimana performa konversi dari Leads (MQL) menjadi Closed Deals serta mengidentifikasi tren bulanan selama periode 2017-2018.
@@ -45,7 +45,7 @@ Proyek ini bertujuan untuk menganalisis efisiensi *marketing funnel* dari datase
 
    Dynamic Measures: Perhitungan CR otomatis menggunakan DAX yang menangani data null secara akurat.
 
-   Interactive Slicers: Filter berdasarkan bulan dan tahun untuk melihat tren secara mendalam.
+   Interactive Slicers: Filter berdasarkan bulan untuk melihat tren secara mendalam.
 
 🚀 How to Run
 
